@@ -1,0 +1,26 @@
+nav{
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(139, 131, 131);
+}
+
+#title{
+    color:rgb(43, 29, 5);
+    font-weight:bold;
+}
+
+#photo{
+    width: 30%;
+}
+
+h2{
+    color:rgb(43, 29, 5);
+    font-weight: bold;
+}
+
+footer{
+    font-style: italic;
+}
+
